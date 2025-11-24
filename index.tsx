@@ -105,7 +105,7 @@
                   </p>
 
                   Best regards,<br />
-                  <b>AutoX Team</b><br />
+                  <b>AutoX and Team</b><br />
                 </td>
               </tr>
             </tbody>
