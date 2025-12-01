@@ -76,7 +76,7 @@
                       color: #0c0d0e;
                     "
                   >
-                    Security Report
+                    Security Report and welcome
                   </h2>
                   <pre
  style="
