@@ -49,7 +49,7 @@
             <tbody>
               <tr>
                 <td>
-                  <!-- Company logo or name can be placed here if needed -->
+                  <!-- Companys logo or name can be placed here if needed -->
                 </td>
               </tr>
             </tbody>
